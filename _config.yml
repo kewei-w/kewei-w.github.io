@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kewei Wei / Ph.D. student at Sorbonne University"
+title                    : "Kewei Wei"
 title_separator          : "-"
 name                     : &name "Kewei Wei"
 description              : &description "Kewei Wei's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,28 +28,27 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Sorbonne Université"
   location         : "Paris, France"
-  employer         : "Red Brick University"
+  employer         : 
   uri              : "https://kewei-w.github.io"
-  email            : "none@example.org" 
+  email            : "wei.kewei@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   orcid            : "https://orcid.org/0009-0007-8698-2568"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kewei-wei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
