@@ -20,11 +20,13 @@ Academic Event Organisation
 ======
 * 14/11/2026: Co-organiser, 3rd journée d'études des doctorant.es du Centre Roland Mousnier: “Faire lien avec l’étranger” (Building Ties with the Foreign), Paris (https://centrerolandmousnier.cnrs.fr/faire-lien-avec-letranger/)
 
+{% comment %}
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Talks
 ======
