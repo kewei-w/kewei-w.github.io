@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Kewei Wei"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in medieval history at Sorbonne Université"
+  bio              : "PhD Candidate in medieval history"
   location         : "Paris, France"
-  employer         : 
+  employer         : "Sorbonne Université"
   uri              : "https://kewei-w.github.io"
   email            : "wei.kewei@outlook.com" 
 
