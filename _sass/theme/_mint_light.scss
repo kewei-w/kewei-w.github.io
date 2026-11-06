@@ -61,12 +61,8 @@ footer {
   color: #{$text};
 }
 
-::selection {
-  background: #{$lighter-primary-color};
-  color: #{$text};
-}
-::-moz-selection {
-  background: #{$lighter-primary-color};
-  color: #{$text};
+html body ::selection {
+  background: #b9dcc7;
+  color: #1f2b24;
 }
 
