@@ -23,7 +23,7 @@ repository               : "kewei-w/kewei-w.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kewei Wei"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in medieval history at Sorbonne Université"
