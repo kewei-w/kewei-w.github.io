@@ -14,7 +14,7 @@ Education
 * Ph.D in Version Medieval History, Sorbonne Université (Paris, France), 2025-29 (expected)
 * M.A. in World History, Fudan University (Shanghai, China), 2022-25
 * 5th ENS-Fudan Pre-Doctoral Training Program in the Humanities, 2022-2025
-* B.S. in World History, Shandong University (Jinan, China), 2018-22
+* B.A. in World History, Shandong University (Jinan, China), 2018-22
 
 Academic Event Organisation
 ======
