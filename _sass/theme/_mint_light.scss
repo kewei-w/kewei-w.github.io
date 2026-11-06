@@ -69,3 +69,13 @@ footer {
   background: #{$lighter-primary-color};
   color: #{$text};
 }
+
+
+html[data-theme="dark"] ::selection {
+  background: #{$border-light};
+  color: #{$text};
+}
+html[data-theme="dark"] ::-moz-selection {
+  background: #{$border-light};
+  color: #{$text};
+}
